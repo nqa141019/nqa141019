@@ -21,11 +21,4 @@
 
 ---
 
-📊 **GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqa141019&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqa141019&layout=compact)
-
----
-
 ⚡ **Fun fact:** I like building beautiful UIs and automating things!
