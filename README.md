@@ -21,4 +21,11 @@
 
 ---
 
+📊 **GitHub Stats & Languages**
+
+![Quang Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cssclk&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssclk&layout=compact&theme=radical)
+
+---
+
 ⚡ **Fun fact:** I like building beautiful UIs and automating things!
